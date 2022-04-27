@@ -24,3 +24,5 @@ if you are able to get past my bad spelling i feel like you can see how this cod
 1. pi pico based pi bots for Team STEAM Robotics
 2. A 3d Printing lab im currently starting up at my highschool (contact me or coach Mudd (at --- --- ----) for details)
 3. summer camp orginisation for Team STEAM Robotics
+
+any other project i included directly in the repo is also somthing i would like to display
