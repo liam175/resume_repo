@@ -12,4 +12,6 @@
     This repo holds 3 version of my Lcollider "library". it is a box colider based physics engine i was       planning on making browser games with. the project layed a good foundation for the python librarys i     write now and the math behind kinimatics.
     
 4.https://github.com/liam175/scrypts
-    if you are able to get past my bad spelling i feel like you can see how this code for unity games has influenced the way i structure my code now.
+    if you are able to get past my bad spelling i feel like you can see how this code for unity games has     influenced the way i structure my code now.
+
+# Ongoing Projects I Am Proud Of
